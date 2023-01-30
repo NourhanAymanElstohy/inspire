@@ -1,0 +1,17 @@
+{
+    "name": "nour/inspire",
+    "autoload": {
+        "psr-4": {
+            "Nour\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nourhan Ayman Elstohy",
+            "email": "nourhanelstohye@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
